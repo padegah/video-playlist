@@ -3,7 +3,7 @@
     width: 500px;
     margin: 10px auto;
     text-align: center;
-    background-color:mintcream;
+    background-color: #f1f3f8;
 }
 
 .title{
@@ -12,5 +12,5 @@
 }
 
 *{
-    background-color:mintcream;
+    background-color: #f1f3f8;
 }
